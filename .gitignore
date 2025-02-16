@@ -1,0 +1,16 @@
+# backup-files
+*.bak
+*.tmp
+
+#virtual environment of Python
+venv/
+__pycache__/
+
+#environment file
+.env
+config.json
+
+#ras-pi files
+*.swp
+logs/
+camera_output.mp4
